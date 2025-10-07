@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Rashik</h1>
+  <h1 align="center">Hi 👋, I'm Muhammed Rashik</h1>
 <h3 align="center">I Am passionate About Python Full Stack </h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif">
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Credisure](https://github.com/Rashik8606/CrediSure.git)
 
-- 🌱 I’m currently learning **ML,AI**
+- 🌱 I’m currently learning **ML DEEP LEARNING**
 
 - 💬 Ask me about **Python Full Stack**
 
